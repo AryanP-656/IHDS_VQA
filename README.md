@@ -1,4 +1,4 @@
-#﻿﻿# Visual Question Answering on Indian Heritage using BLIP
+# Visual Question Answering on Indian Heritage using BLIP
 
 This project fine-tunes the BLIP (Bootstrapping Language-Image Pre-training) model on the _Indian Heritage in Digital Space (IHDS)_ dataset to perform **Visual Question Answering (VQA)**. The system answers questions about Indian heritage sites using image-question pairs, helping in digital preservation and educational outreach.
 

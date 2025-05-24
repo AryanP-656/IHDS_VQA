@@ -16,7 +16,7 @@ This project fine-tunes the BLIP (Bootstrapping Language-Image Pre-training) mod
 - **Note:** The IHDS dataset is part of the *Indian Heritage in Digital Space (DST/ICPS/IHDS/2018)* initiative under the *Interdisciplinary Cyber Physical Systems Programme*, funded by the **Department of Science and Technology, Government of India**.
 
 
-## ⚙️ Training
+## Training
 
 - Epochs: 20
 - Batch size: 2
@@ -24,13 +24,13 @@ This project fine-tunes the BLIP (Bootstrapping Language-Image Pre-training) mod
 - Scheduler: Cosine Annealing
 - Gradient Accumulation: 4
 
-## 🏁 Future Scope
+## Future Scope
 
 - Add multilingual support (Hindi, Tamil)
 - Expand dataset to more heritage sites
 - Deploy as public API or AR/VR tool
 
-##  Authors
+## Authors
 
 Aryan Phadnis, Vibhu V Revadi, Abhishek B R, Vinayak Neginhal, Dr. Uday Kulkarni, Shashank Hegde  
 _KLE Technological University, Hubballi_

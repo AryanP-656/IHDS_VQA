@@ -26,7 +26,7 @@ This project fine-tunes the BLIP (Bootstrapping Language-Image Pre-training) mod
 
 ## Future Scope
 
-- Add multilingual support (Hindi, Tamil)
+- Add multilingual support
 - Expand dataset to more heritage sites
 - Deploy as public API or AR/VR tool
 
